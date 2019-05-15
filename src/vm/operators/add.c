@@ -1,12 +1,3 @@
-/*
-** add.c for corewar in src/vm/operators/add.c
-** 
-** Made by Robin Houssais
-** Login   <robin.houssais@epitech.eu>
-** 
-** Started on  Fri Mar 31 14:11:22 2017 Robin Houssais
-** Last update Fri Mar 31 14:11:22 2017 Robin Houssais
-*/
 
 #include "vm.h"
 #include "op.h"
